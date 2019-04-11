@@ -1,0 +1,32 @@
+a:hover {
+  text-decoration: none; }
+
+/* Variables */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2D3436; }
+
+.logo {
+  margin: 3% 0; }
+  .logo img {
+    width: 35%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%); }
+
+.heading {
+  text-align: center; }
+  .heading h1 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px; }
+  .heading a {
+    color: #55EFC4;
+    font-weight: 300; }
+  .heading a:hover {
+    color: #2D3436; }
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%; }
